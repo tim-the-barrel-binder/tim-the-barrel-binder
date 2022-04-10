@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tim
+- 👀 I’m interested in Marketing automation and online trading.
+- 🌱 I’m currently learning Python.
